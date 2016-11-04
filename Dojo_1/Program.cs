@@ -13,7 +13,7 @@ namespace Dojo_1
         private const int FAHRENHEIT = 2;
         private const int KELVIN = 3;
         private const int REAMUR = 4;
-        
+        private const int x = 0;
 
        // private static int input;
 
